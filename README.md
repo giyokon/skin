@@ -19,5 +19,5 @@ https://osu.ppy.sh/users/giyokon
 # [GlowSpecial](https://mega.nz/file/AaZGHDZS#g-JmNefsjF1FCbonKBAlJ-cMywyIsQf6G8pfklcc-oU)
 ![](https://i.imgur.com/bIGkZvt.png)
 
-# [GlowSpecial](https://mega.nz/file/hOYi0TLL#929vfrQePsrQKeuiPgWJOKg-V7iA8vboe99UNTyasUE)
+# [жiжokon (jhijhokon)](https://mega.nz/file/hOYi0TLL#929vfrQePsrQKeuiPgWJOKg-V7iA8vboe99UNTyasUE)
 ![](https://i.imgur.com/5Ke0JjU.jpeg)
