@@ -21,3 +21,6 @@ https://osu.ppy.sh/users/giyokon
 
 # [жiжokon (jhijhokon)](https://giyokon.s-ul.eu/meqV22Z4)
 ![](https://i.imgur.com/5Ke0JjU.jpeg)
+
+# [blank](https://giyokon.s-ul.eu/OFPUzARr)
+![](https://i.imgur.com/nOqPAqw.png)
