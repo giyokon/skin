@@ -1,8 +1,12 @@
 # skin
 https://osu.ppy.sh/u/giyokon
 
-## [giyokon_taiko](https://giyokon.s-ul.eu/aCK4Fk79)
+## [giyokon](https://giyokon.s-ul.eu/PhGw7YGU)
 ![](https://i.imgur.com/6khf3PD.png)
+![](https://i.imgur.com/VyDaJLV.png)
+![](https://i.imgur.com/MCfGXbp.png)
+![](https://i.imgur.com/2ciJ3MT.png)
+![](https://i.imgur.com/Rjp3N21.png)
 
 ## [taiko_flashlight_circle](https://giyokon.s-ul.eu/h8UeEV92)
 ![](https://i.imgur.com/xFyfyMp.png)
@@ -19,11 +23,8 @@ https://osu.ppy.sh/u/giyokon
 ## [GlowSpecial](https://giyokon.s-ul.eu/ENob3VK0)
 ![](https://i.imgur.com/bIGkZvt.png)
 
-## [жiжokon (jhijhokon)](https://giyokon.s-ul.eu/meqV22Z4)
-![](https://i.imgur.com/5Ke0JjU.jpeg)
-
 ## [blank](https://giyokon.s-ul.eu/OFPUzARr)
-![](https://i.imgur.com/nOqPAqw.png)
+![](https://i.imgur.com/UPnsWGf.png)
 
 ## [target](https://giyokon.s-ul.eu/3ctNf0nk)
 ![](https://i.imgur.com/UTYSqk6.png)
