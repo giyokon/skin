@@ -21,7 +21,7 @@ https://osu.ppy.sh/u/giyokon
 ![](https://i.imgur.com/mOAQxyg.png)
 
 ## [GlowSpecial](https://giyokon.s-ul.eu/ENob3VK0)
-![](https://i.imgur.com/bIGkZvt.png)
+![](https://i.imgur.com/HnpWfro.png)
 
 ## [blank](https://giyokon.s-ul.eu/OFPUzARr)
 ![](https://i.imgur.com/UPnsWGf.png)
