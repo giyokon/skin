@@ -32,17 +32,18 @@ https://osu.ppy.sh/u/giyokon
 ## [спросъв](https://giyokon.s-ul.eu/sujhnTIc)
 ![](https://i.imgur.com/B6O71Gh.png)
 
-Height = 864 // 4:3
-Width = 1152 // 4:3
-HeightFullscreen = 720 // 8:3
-WidthFullscreen = 1920 // 8:3
-RefreshRate = 75
-FrameSync = Unlimited
-ScoreMeterScale = 13
-ProgressBarType = BottomRight
-Language = fa // devbuild
-ChatChannels = #bulgarian #spectator Dkads
-MinimiseOnAltTabFullscreen = 1
-keyQuickRetry = Q
-CursorSize = 1.5
+# .cfg
+Height = 864 // 4:3 <br />
+Width = 1152 // 4:3 <br />
+HeightFullscreen = 720 // 8:3 <br />
+WidthFullscreen = 1920 // 8:3 <br />
+RefreshRate = 75 <br />
+FrameSync = Unlimited <br />
+ScoreMeterScale = 13 <br />
+ProgressBarType = BottomRight <br />
+Language = fa // devbuild <br />
+ChatChannels = #bulgarian #spectator Dkads <br />
+MinimiseOnAltTabFullscreen = 1 <br />
+keyQuickRetry = Q <br />
+CursorSize = 1.5 <br />
 LastVersion = b20151017 // Stable Fallback
